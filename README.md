@@ -13,9 +13,9 @@
 
 | Bài | Tên bài | Thư mục |
 |---|---|---|
-| 4.6 | QUẢN LÝ DỮ LIỆU VỚI BINDINGSOURCE & XỬ LÝ FILE(AVATAR / CSV) | [Bai46](./Bai4_6) |
-| 4.7 | THIẾT KẾ KHUNG ỨNG DỤNG MDI & QUẢN LÝ ĐA CỬA SỔ | [Bai47](./Bai4_7) |
-| 4.8 | LẬP TRÌNH BẤT ĐỒNG BỘ (ASYNC/AWAIT) & TIẾN TRÌNH PROGRESSBAR | [Bai48](./Bai4_8) |
+| 4.6 | QUẢN LÝ DỮ LIỆU VỚI BINDINGSOURCE & XỬ LÝ FILE(AVATAR / CSV) | [Bai4_6](./Bai4_6) |
+| 4.7 | THIẾT KẾ KHUNG ỨNG DỤNG MDI & QUẢN LÝ ĐA CỬA SỔ | [Bai4_7](./Bai4_7) |
+| 4.8 | LẬP TRÌNH BẤT ĐỒNG BỘ (ASYNC/AWAIT) & TIẾN TRÌNH PROGRESSBAR | [Bai4_8](./Bai4_8) |
 
 ---
 
