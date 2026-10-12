@@ -29,7 +29,7 @@
 ### Bài 4.7 - THIẾT KẾ KHUNG ỨNG DỤNG MDI & QUẢN LÝ ĐA CỬA SỔ
 ![Giao diện](./l471.png)
 
-![Chức năng](./l471.png)
+![Chức năng](./l472.png)
 
 ### Bài 4.8 - LẬP TRÌNH BẤT ĐỒNG BỘ (ASYNC/AWAIT) & TIẾN TRÌNH PROGRESSBAR
 ![Đăng nhập](./l481.png)
